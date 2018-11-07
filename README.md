@@ -18,8 +18,7 @@ For the sake of simplicity we will limit the number of currencies to AED, EUR, G
 - Travis account (https://travis-ci.org)
 - DockerHub (https://hub.docker.com/)
 
-# Challenges
-
+## Challenges
 - [Build the REST API](https://github.com/imamchishty/exchange-rates-challenge/task1.md)
 - [](https://github.com/imamchishty/exchange-rates-challenge/task2.md)
 - [](https://github.com/imamchishty/exchange-rates-challenge/task3.md)
