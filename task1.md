@@ -25,7 +25,14 @@ The exchange rate for the from/to currencies should be maintained for an hour, i
 * The name of your deployable/executable should be in this format:  `exchange-rate-firstname.[jar, exe, bat etc]`
 * You should be able to run (a provided) set of JMeter tests that all pass against your GET API.
 
+## JMeter Test
+TODO Imam to provide a link here.
+
+## Deadline
+Sunday 18th November 2018
+
 ## Who is taking part?
 | Who | Repo | Package |Status|
 |-----|------|---------|------|
 |Imam | [Link](https://github.com/imamchishty/exchange-rates-task1)| To be completed| Not started.|
+
