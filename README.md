@@ -20,10 +20,15 @@ For the sake of simplicity we will limit the number of currencies to AED, EUR, G
 
 ## Challenges
 - [Build the REST API](https://github.com/imamchishty/exchange-rates-challenge/task1.md)
-- [](https://github.com/imamchishty/exchange-rates-challenge/task2.md)
-- [](https://github.com/imamchishty/exchange-rates-challenge/task3.md)
-- [](https://github.com/imamchishty/exchange-rates-challenge/task4.md)
-- [](https://github.com/imamchishty/exchange-rates-challenge/task5.md)
-- [](https://github.com/imamchishty/exchange-rates-challenge/task6.md)
-- [](https://github.com/imamchishty/exchange-rates-challenge/task7.md)
-- [](https://github.com/imamchishty/exchange-rates-challenge/task8.md)
+- [Travis Setup](https://github.com/imamchishty/exchange-rates-challenge/task2.md)
+- [Docker Image](https://github.com/imamchishty/exchange-rates-challenge/task3.md)
+- [Java Client](https://github.com/imamchishty/exchange-rates-challenge/task4.md)
+- [OAuth2](https://github.com/imamchishty/exchange-rates-challenge/task5.md)
+- [Cloud Deployment - Google](https://github.com/imamchishty/exchange-rates-challenge/task6.md)
+- [Kubernetes](https://github.com/imamchishty/exchange-rates-challenge/task7.md)
+- [Serverless](https://github.com/imamchishty/exchange-rates-challenge/task8.md)
+- [RSocket](https://github.com/imamchishty/exchange-rates-challenge/task9.md)
+- [NoSQL](https://github.com/imamchishty/exchange-rates-challenge/task10.md)
+- [Blockchain](https://github.com/imamchishty/exchange-rates-challenge/task11.md)
+- [Mobile App](https://github.com/imamchishty/exchange-rates-challenge/task12.md)
+
