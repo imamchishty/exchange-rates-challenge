@@ -6,4 +6,5 @@ https://github.com/imamchishty/exchange-rates-challenge/wiki
 | Name | Framework/Language Used | Currency Service Repo | CI | Cloud Deployment |
 |------|-------------------------|-----------------------|---------------|---------------|
 |Imam Chishty | Golang | https://github.com/imamchishty/exchange-rates | [Circle CI]() | TBD | 
+|Shefeeque    | Spring | https://github.com/shefeequemohammed/exchange-rate-challenge |      |
 
